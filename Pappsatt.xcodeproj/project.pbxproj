@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1F09FDFB2729BD13007B0DF0 /* PappsattApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F09FDFA2729BD13007B0DF0 /* PappsattApp.swift */; };
-		1F09FDFD2729BD13007B0DF0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F09FDFC2729BD13007B0DF0 /* ContentView.swift */; };
+		1F09FDFD2729BD13007B0DF0 /* Pappsatt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F09FDFC2729BD13007B0DF0 /* Pappsatt.swift */; };
 		1F09FDFF2729BD14007B0DF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F09FDFE2729BD14007B0DF0 /* Assets.xcassets */; };
 		1F09FE022729BD14007B0DF0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F09FE012729BD14007B0DF0 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		1F09FDF72729BD13007B0DF0 /* Pappsatt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pappsatt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F09FDFA2729BD13007B0DF0 /* PappsattApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PappsattApp.swift; sourceTree = "<group>"; };
-		1F09FDFC2729BD13007B0DF0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1F09FDFC2729BD13007B0DF0 /* Pappsatt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pappsatt.swift; sourceTree = "<group>"; };
 		1F09FDFE2729BD14007B0DF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F09FE012729BD14007B0DF0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				1F09FDFA2729BD13007B0DF0 /* PappsattApp.swift */,
-				1F09FDFC2729BD13007B0DF0 /* ContentView.swift */,
+				1F09FDFC2729BD13007B0DF0 /* Pappsatt.swift */,
 				1F09FDFE2729BD14007B0DF0 /* Assets.xcassets */,
 				1F09FE002729BD14007B0DF0 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F09FDFD2729BD13007B0DF0 /* ContentView.swift in Sources */,
+				1F09FDFD2729BD13007B0DF0 /* Pappsatt.swift in Sources */,
 				1F09FDFB2729BD13007B0DF0 /* PappsattApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
