@@ -1,27 +1,27 @@
 //
-//  Pappsatt.swift
+//  RecipeDetail.swift
 //  Pappsatt
 //
-//  Created by Fabian Braig on 27.10.21.
+//  Created by Fabian Braig on 28.10.21.
 //
 
 import SwiftUI
 
-struct Pappsatt: View {
+struct RecipeDetail: View {
     var body: some View {
-		
+        VStack {
 		HStack {
 			Image(systemName: "fork.knife.circle")
 			.font(.system(size: 30.0))
 		}
 		.padding()
-		.background(Color.orange)
-
+		.background(Color.orange)			
+		}
     }
 }
 
-struct Pappsatt_Previews: PreviewProvider {
+struct RecipeDetail_Previews: PreviewProvider {
     static var previews: some View {
-        Pappsatt()
+        RecipeDetail()
     }
 }

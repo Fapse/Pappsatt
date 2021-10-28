@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Käsespatzen",
+        "id": 1001,
+        "effort": 3,
+        "isVegetarian": true,
+        "isFavorite": true,
+        "ingredients": [
+			"5 Eier",
+			"500g Mehl"
+		],
+        "instruction": "Alles rühren, schaben und dann kochen. Guten Appetit!",
+        "imageName": "kaesespatzen"
+    },
+    {
+        "name": "Algensalat",
+        "id": 1002,
+        "effort": 3,
+        "isVegetarian": true,
+        "isFavorite": false,
+        "ingredients": [
+            "250g Seealgen",
+            "5g Wasabi",
+            "Sesamkörner"
+        ],
+        "instruction": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Guten Appetit!",
+        "imageName": "algensalat"
+    },
+    {
+        "name": "Wiener Schnitzel mit Pommes",
+        "id": 1003,
+        "effort": 3,
+        "isVegetarian": false,
+        "isFavorite": true,
+        "ingredients": [
+			"200g Kalbfleisch",
+            "2 Eier",
+            "100g Mehl",
+            "Milch",
+            "Tiefkühlpommes"
+        ],
+        "instruction": "Eier und Mehl zu einer Panade verrühren. Fleisch wenden und dann in Semmelbrösel tunken. Anschließend braten und mit Pommes aus dem Backofen servieren. Guten Appetit!",
+        "imageName": "wienerschnitzel"
+    }
+]

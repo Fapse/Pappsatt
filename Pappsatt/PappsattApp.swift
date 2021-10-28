@@ -11,7 +11,7 @@ import SwiftUI
 struct PappsattApp: App {
     var body: some Scene {
         WindowGroup {
-            Pappsatt()
+            ContentView()
         }
     }
 }
