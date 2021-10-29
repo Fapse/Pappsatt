@@ -11,11 +11,12 @@ struct RecipeList: View {
     var body: some View {
 		NavigationView {
 			List(recipes) { recipe in
-				NavigationLink(destination: RecipeDetail()) {
+				NavigationLink(destination: RecipeDetail(recipe: recipe)) {
 					RecipeRow(recipe: recipe)
 				}
 			}
 			.navigationTitle("Rezepte")
+			.navigationBarTitleDisplayMode(.large)
 		}
     }
 }

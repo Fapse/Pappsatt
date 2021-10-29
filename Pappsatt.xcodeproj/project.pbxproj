@@ -17,6 +17,7 @@
 		1FC13949272B2BA900931CC2 /* RecipeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC13948272B2BA900931CC2 /* RecipeRow.swift */; };
 		1FC1394B272B332A00931CC2 /* RecipeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC1394A272B332A00931CC2 /* RecipeList.swift */; };
 		1FC1394D272B389000931CC2 /* RecipeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC1394C272B389000931CC2 /* RecipeDetail.swift */; };
+		1FCA062A272BEDBA00D11E2C /* SquareImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCA0629272BEDBA00D11E2C /* SquareImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		1FC13948272B2BA900931CC2 /* RecipeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeRow.swift; sourceTree = "<group>"; };
 		1FC1394A272B332A00931CC2 /* RecipeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeList.swift; sourceTree = "<group>"; };
 		1FC1394C272B389000931CC2 /* RecipeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetail.swift; sourceTree = "<group>"; };
+		1FCA0629272BEDBA00D11E2C /* SquareImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				1FC13948272B2BA900931CC2 /* RecipeRow.swift */,
 				1FC1394A272B332A00931CC2 /* RecipeList.swift */,
 				1FC1394C272B389000931CC2 /* RecipeDetail.swift */,
+				1FCA0629272BEDBA00D11E2C /* SquareImage.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FCA062A272BEDBA00D11E2C /* SquareImage.swift in Sources */,
 				1FC13942272AFDA200931CC2 /* Recipe.swift in Sources */,
 				1FC1394D272B389000931CC2 /* RecipeDetail.swift in Sources */,
 				1FC1394B272B332A00931CC2 /* RecipeList.swift in Sources */,
@@ -315,7 +319,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"Pappsatt/Preview Content\"";
 				DEVELOPMENT_TEAM = TE36759D36;
 				ENABLE_PREVIEWS = YES;
@@ -345,7 +349,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"Pappsatt/Preview Content\"";
 				DEVELOPMENT_TEAM = TE36759D36;
 				ENABLE_PREVIEWS = YES;
