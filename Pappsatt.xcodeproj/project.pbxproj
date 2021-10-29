@@ -18,6 +18,7 @@
 		1FC1394B272B332A00931CC2 /* RecipeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC1394A272B332A00931CC2 /* RecipeList.swift */; };
 		1FC1394D272B389000931CC2 /* RecipeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FC1394C272B389000931CC2 /* RecipeDetail.swift */; };
 		1FCA062A272BEDBA00D11E2C /* SquareImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCA0629272BEDBA00D11E2C /* SquareImage.swift */; };
+		1FCA062C272C576500D11E2C /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FCA062B272C576500D11E2C /* SearchBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		1FC1394A272B332A00931CC2 /* RecipeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeList.swift; sourceTree = "<group>"; };
 		1FC1394C272B389000931CC2 /* RecipeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetail.swift; sourceTree = "<group>"; };
 		1FCA0629272BEDBA00D11E2C /* SquareImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareImage.swift; sourceTree = "<group>"; };
+		1FCA062B272C576500D11E2C /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				1FC1394A272B332A00931CC2 /* RecipeList.swift */,
 				1FC1394C272B389000931CC2 /* RecipeDetail.swift */,
 				1FCA0629272BEDBA00D11E2C /* SquareImage.swift */,
+				1FCA062B272C576500D11E2C /* SearchBar.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				1FC1394D272B389000931CC2 /* RecipeDetail.swift in Sources */,
 				1FC1394B272B332A00931CC2 /* RecipeList.swift in Sources */,
 				1FC13944272B2A8300931CC2 /* ModelData.swift in Sources */,
+				1FCA062C272C576500D11E2C /* SearchBar.swift in Sources */,
 				1F09FDFD2729BD13007B0DF0 /* ContentView.swift in Sources */,
 				1F09FDFB2729BD13007B0DF0 /* PappsattApp.swift in Sources */,
 				1FC13949272B2BA900931CC2 /* RecipeRow.swift in Sources */,
